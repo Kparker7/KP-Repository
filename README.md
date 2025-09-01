@@ -11,3 +11,7 @@ fatal: not in a git directory
 
 Administrator@MININT-RMIEPJG MINGW64 ~
 $ git config --global user.email "kparker70@student.ccc.edu"
+
+git add README.md
+git commit -m "updated-branch"
+git push -u origin feature-update
